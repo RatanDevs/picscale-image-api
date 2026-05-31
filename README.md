@@ -1,8 +1,8 @@
-# PicScale - Serverless Image Manipulation API
+# PicScale Image API
 
 PicScale is a lightweight, high-performance serverless image processing API built with Next.js (App Router) and Sharp. It fetches remote images dynamically, compresses, resizes, crops, and converts them between formats based on URL query parameters, and serves them with optimal caching headers directly through Vercel’s Edge CDN.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRatanDevs%2Fimage-manipulation-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRatanDevs%2Fpicscale-image-api)
 
 ---
 
@@ -48,8 +48,8 @@ Ensure you have [Node.js](https://nodejs.org/) (v18.x or newer) installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RatanDevs/image-manipulation-api.git
-   cd image-manipulation-api
+   git clone https://github.com/RatanDevs/picscale-image-api.git
+   cd picscale-image-api
    ```
 
 2. **Install project dependencies:**
